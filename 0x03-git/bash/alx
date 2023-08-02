@@ -1,1 +1,2 @@
 #!/bin/bash
+git commit -m "Resolved conflicts with the update_script branch"
